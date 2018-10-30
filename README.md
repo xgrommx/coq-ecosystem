@@ -451,5 +451,7 @@ What are the most popular libraries in the Coq ecosystem?
 | 445 | [ashwith/hdlroot](https://github.com/ashwith/hdlroot) | root directory for my Verilog/VHDL files | 2 |
 | 446 | [bmsherman/finite](https://github.com/bmsherman/finite) | Facts about isomorphisms and finite types in Coq | 2 |
 | 447 | [cmcl/msci](https://github.com/cmcl/msci) | MSci project: Development of a formalisation of "Propositions as Sessions" | 2 |
+| 447 | [Ptival/HaysTac](https://github.com/Ptival/HaysTac) | A pile of Ltac tactics that might contain the needle you're looking for. Oriented around nameless tactics programming. | 1 |
+
 
 Inspired by awesome repo [rxjs-ecosystem](https://github.com/Widdershin/rxjs-ecosystem). Thanks Nick
